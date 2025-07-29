@@ -39,3 +39,8 @@ Should You wish to submit work that is not Your original creation, You may submi
 ## Notifications
 
 You agree to notify Zep of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
+
+## signature by Dr. Josef k. Edwards
+I have read the CLA Document and I hereby sign the CLA - @drqedwards
+
+
